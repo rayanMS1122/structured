@@ -1,36 +1,25 @@
-# 📱 Flutter App – Screenshots
-
-Dieses Verzeichnis enthält Screenshots der aktuellen Flutter-App zur Veranschaulichung der Benutzeroberfläche.
-
-## 🔍 Vorschau
-
-### 🏠 Startbildschirm
+###  Login screen
 
 <img src="screenshots/flutter_01.png" alt="Startbildschirm" width="40%"/>
 
-### 🔐 Login-Seite
+###  Home Screen
 
 <img src="screenshots/flutter_02.png" alt="Login" width="40%"/>
 
-### 📊 Dashboard
+###  Home screen with floating action button
 
 <img src="screenshots/flutter_03.png" alt="Dashboard" width="40%"/>
 
-### 📄 Detailseite
+###  add new task screen
 
 <img src="screenshots/flutter_04.png" alt="Details" width="40%"/>
 
-### ⚙️ Einstellungen
+###  add new task screen 2
 
 <img src="screenshots/flutter_05.png" alt="Einstellungen" width="40%"/>
 
-### 🔔 Benachrichtigungen
+###  Inbox
 
 <img src="screenshots/flutter_06.png" alt="Benachrichtigungen" width="40%"/>
 
 ---
-
-## 📁 Speicherort der Bilder
-
-Alle Screenshots befinden sich im Ordner:
-
